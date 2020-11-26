@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-	int a,b;
+	double a,b;
 	cout<<"***CHUONG TRINH TINH HIEU 2 SO A VA B***"<<endl;
 	cout<<"NHAP A: ";
 	cin>>a;

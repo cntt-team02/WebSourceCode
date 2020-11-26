@@ -11,7 +11,7 @@ int main()
 	{
 		cout<<"NHAP B: ";
 		cin>>b;
-	}while(b==0)
+	}while(b==0);
 		
 	
 	cout<<"THUONG CUA 2 SO A VA B LA: "<<a/b;
